@@ -41,7 +41,8 @@ SEE ALSO
         print("Exposed atoms are selected in: " + selName)
 
     return selName
-
+asdsajdkhsadhsa
+dsajgdas
 
 def findSurfaceResidues(selection="all", cutoff=2.5, doShow=0, quiet=1):
     """
